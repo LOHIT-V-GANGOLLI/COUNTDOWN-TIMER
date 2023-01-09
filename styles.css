@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 20%;
+    
+}
+
+.form-input-btn{
+    width: 4rem;
+}
+
+#countdown {
+ padding: 3rem;
+ padding-bottom: 0rem;
+ font-size: 5rem;   
+}
+
+#count{
+    padding: 1.5rem;
+    padding-bottom: 0.5;
+}
